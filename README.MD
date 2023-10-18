@@ -32,6 +32,8 @@ fraîche.&quot;</p>
 <img src="./img/img05.png"/>
 <li>7. Ecrire une fonction qui élimine les stop words.</li>
 <img src="./img/img06.png"/>
+<li>8. Appliquer la lemmatisation et stremming sur le corpus sans stop words.</li>
+<img src="./img/img07.png"/>
 </ul>
 
 
