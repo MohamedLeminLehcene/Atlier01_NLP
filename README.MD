@@ -18,10 +18,21 @@ fraîche.&quot;</p>
     <li><h3>Suppression des stopwords : </h3> : Supprimer les mots courants (comme 'le', 'la', 'et') qui ne portent pas beaucoup de sens.</li>
     <li><h3>Lemmatisation et Stemming : </h3> : Réduire les mots à leur forme de base (par exemple, "mangeons" devient "manger").</li>
 </ul>
+<li>4. Ecrire code suivant :</li>
+<img src="./img/img03.png"/>
 
-    <li>BiDirectional Streaming Model</li>
+<li>
+5. Ajouter une colonne dans l’objet corpus nommée « t_s_p » en utilisant la fonction de Q.4
+</li>
+<img src="./img/img04.png"/>
+
+
+
+<li>6. Ecrire une fonction pour tokinezer le corpus de colonne « t_s_p ».</li>
+<img src="./img/img05.png"/>
+<li>7. Ecrire une fonction qui élimine les stop words.</li>
+<img src="./img/img06.png"/>
 </ul>
-
 
 
 
