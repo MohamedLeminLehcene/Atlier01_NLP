@@ -50,3 +50,28 @@ fraîche.&quot;</p>
 
 
 
+<hr>
+
+
+
+<h3>Partie 3 : TfidfVectorizer</h3>
+
+<ul>
+    <li>1. Initialiser et ajuster le TfidfVectorizer à votre corpus :</li>
+    <img src="./img/img011.png"/>
+    <li>2. Transformer le corpus en une matrice de poids de tokens dans le corpus :</li>
+<img src="./img/img012.png"/>
+    <li>3. Explorer la matrice résultante pour comprendre comment les tokens sont représentés :</li>
+<img src="./img/img012.png"/>
+
+<li>4. Appliquer la métrique similarité de cosinus entre les tokens « chat et chien », puis après « pomme et orange » sur les deux représentations vectorielles. Conclure ?</li>
+<img src="./img/img013.png"/>
+
+<p1>
+<strong>Conclusion</strong> La similarité de cosinus mesure la similarité entre deux vecteurs. Plus la valeur est proche de 1, plus les vecteurs sont similaires. En général, dans un modèle TF-IDF, les mots rares qui sont spécifiques à un document donné auront des valeurs plus élevées. La similarité entre "chat" et "chien" est probablement plus basse que celle entre "pomme" et "orange" car "chat" et "chien" sont des mots courants et peuvent apparaître dans divers contextes, tandis que "pomme" et "orange" sont plus spécifiques à des contextes particuliers.
+Cela conclut l'atelier sur la préparation de texte pour les modèles de machine learning en utilisant CountVectorizer et TfidfVectorizer en Python. Ces techniques sont essentielles pour transformer le texte en données exploitables par les algorithmes de machine learning.
+</p1>
+</ul>
+
+
+
