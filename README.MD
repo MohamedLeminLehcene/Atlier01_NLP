@@ -35,14 +35,18 @@ fraîche.&quot;</p>
 <li>8. Appliquer la lemmatisation et stremming sur le corpus sans stop words.</li>
 <img src="./img/img07.png"/>
 </ul>
+<hr>
+
+<h3>Partie 2 : CountVectorizer</h3>
+
+<ul>
+    <li>9. Initialiser et ajuster le CountVectorizer à votre corpus :</li>
+    <img src="./img/img08.png"/>
+    <li>10. Transformer le corpus en une matrice de comptage de tokens :</li>
+<img src="./img/img09.png"/>
+    <li>11. Explorer la matrice résultante pour comprendre comment les tokens sont représentés en vecteurs binaires :</li>
+<img src="./img/img010.png"/>
+</ul>
 
 
-
-
-<img src="pictures/Model1/img01.png">
-<img src="pictures/Model1/img03.png">
-<img src="pictures/Model1/img04.png">
-<img src="pictures/Model1/img05.png">
-<img src="pictures/Model1/img06.png">
-<img src="pictures/Model1/img07.png">
 
